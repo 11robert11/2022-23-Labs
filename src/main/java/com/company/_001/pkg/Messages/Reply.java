@@ -10,6 +10,8 @@ public class Reply extends Message {
 
 	// Parameterized Constructor
 	public Reply(String auth, String subj, String bod, int i) {
+		super(auth, subj, bod, i);
+		// place penis here
 		
 	}
 
